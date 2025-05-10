@@ -25,3 +25,6 @@ Make sure that when you use this method, the configuration includes two values:
 2. **ApiKey**: The necessary API key to access the API
 
 When utilizing the shared configuration library, this information is automatically included.
+
+## License
+GPL-3.0-or-later
